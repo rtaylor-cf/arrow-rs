@@ -1,0 +1,27 @@
+arrow-json/src/reader/json_array.rs
+  s_df041e521a7216::t_8d90036d6bdfb3 13-15,38-39,104-110
+arrow-json/src/reader/list_array.rs
+  s_df041e521a7216::t_beb0cd4cb752f7 45,59
+arrow-json/src/reader/map_array.rs
+  s_df041e521a7216::t_88ac36cacadb07 44,70,79
+arrow-json/src/reader/mod.rs
+  s_df041e521a7216::t_3dd976e58e36db 196,219,263,323-336,370,797,850,888-890,906,916,3116-3190
+arrow-json/src/reader/struct_array.rs
+  s_df041e521a7216::t_248e47913c25b7 43,59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b4badfd90cd0347d2628b430f683501a3517ae91",
+  "prompts": {},
+  "sessions": {
+    "s_df041e521a7216": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_06cd0625bffe1rjGvYnrPEqFb2",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "rtaylor <rtaylor@cloudflare.com>"
+    }
+  }
+}
