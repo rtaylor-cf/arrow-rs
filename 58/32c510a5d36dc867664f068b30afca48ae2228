@@ -1,0 +1,19 @@
+arrow-json/src/reader/json_array.rs
+  s_df041e521a7216::t_8d90036d6bdfb3 9-10,100-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5832c510a5d36dc867664f068b30afca48ae2228",
+  "prompts": {},
+  "sessions": {
+    "s_df041e521a7216": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_06cd0625bffe1rjGvYnrPEqFb2",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "rtaylor <rtaylor@cloudflare.com>"
+    }
+  }
+}
